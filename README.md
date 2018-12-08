@@ -12,6 +12,9 @@
 6. deskripsikan variable untuk mencetak fuungsi selanjutnya.
 7. cetak suku fibonacci menggunakan pemanggilan fungsi itertif.
 
+**Pict program**
+https://github.com/ayuanjani4321/praktikum7/blob/master/latihan1/pict1.png
+
 **pseudecode**
 ```
 1. int typedatar (a, b)
@@ -57,10 +60,6 @@ return 0;
 }
 ```
 
-**Pict program**
-https://github.com/ayuanjani4321/praktikum7/blob/master/latihan1/pict1.png
-
-
 ##Soal2.cpp
 
 **Alur Algoritma**
@@ -72,6 +71,9 @@ https://github.com/ayuanjani4321/praktikum7/blob/master/latihan1/pict1.png
 5. Sebaliknya return (-a) + type Data (a, b+1)
 6. masukan variabel a,b untuk menginput nilai awal dan dibagi degan nilai selanjutnya.
 7. cetak nilai perkalian dengan memanggil fungsi rekrusif menggunakan type datanya.
+
+**pict program**
+https://github.com/ayuanjani4321/praktikum7/tree/master/latihan2
 
 **pseudecode**
 ```
@@ -109,16 +111,18 @@ main()
 }
 ```
 
-**pict program**
-https://github.com/ayuanjani4321/praktikum7/tree/master/latihan2
+##soal3.cpp 
 
-##soal3.cpp Alur Argoritma
+**Alur Argoritma**
 
 1. Mulai program tersebut
 2. input menggunakan intruksi void dan menggunakan pointer untuk menetapakan void typedata (char *s)
 3. jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
 4. masukan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
 5. cetak pembalikan kata dengan memanggil funsi rekrusif menggunkan type datanya.
+
+**pict Program**
+https://github.com/ayuanjani4321/praktikum7/tree/master/latihan3
 
 **pseudecode**
 ```
@@ -156,5 +160,3 @@ int main()
 
 }
 ```
-**pict Program**
-https://github.com/ayuanjani4321/praktikum7/tree/master/latihan3
